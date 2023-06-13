@@ -1,0 +1,38 @@
+{
+    "versao": "0.1",
+    "candidatos": [
+        {
+            "codigo": "01",
+            "nome": "Lily",
+            "idade": 25,
+            "cadastro": false,
+            "fotos": [
+                "faces/Lily1.jpg",
+                "faces/Lily2.jpg",
+                "faces/Lily3.jpg"
+            ]
+        },
+        {
+            "codigo": "02",
+            "nome": "Robin",
+            "idade": 23,
+            "cadastro": true,
+            "fotos": [
+                "faces/Robin1.jpg",
+                "faces/Robin2.jpg",
+                "faces/Robin3.jpg"
+            ]
+        },
+        {
+            "codigo": "03",
+            "nome": "Ted",
+            "idade": 29,
+            "cadastro": true,
+            "fotos": [
+                "faces/Ted1.jpg",
+                "faces/Ted2.jpeg",
+                "faces/Ted3.jpeg"
+            ]
+        }
+    ]
+}
