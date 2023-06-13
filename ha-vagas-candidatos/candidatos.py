@@ -29,7 +29,7 @@ def simular_visitas():
 
     visitantes = {
         "foto": foto,
-        "pacientes": None
+        "candidatos": None
     }
     return visitantes
 
