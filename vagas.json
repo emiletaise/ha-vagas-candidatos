@@ -1,0 +1,22 @@
+{
+    "vagas": [
+        {
+            "codigo": "01",
+            "titulo": "Desenvolvedor Web",
+            "resumo": "Vaga para Desenvolvedor Web Junior que tenha conhecimento em JavaScript.",
+            "habilidade": ["javascript"]
+        },
+        {
+            "codigo": "02",
+            "titulo": "Analista de Redes",
+            "resumo": "Vaga para analista de redes que tenha certificado de MikroTik.",
+            "habilidade": ["mikrotik"]
+        },
+        {
+            "codigo": "03",
+            "titulo": "Gestor de Projetos",
+            "resumo": "Vaga para Gestor de Projetos que tenha experiência com metodologias ágeis e já tenha utilizado o Microsoft Project.",
+            "habilidade": ["msproject"]
+        }
+    ]
+}
